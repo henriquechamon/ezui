@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "ezui": "npx ts-node-dev .ezui/ezui.ts"
+    "ezui": "npx ts-node-dev --esm .ezui/ezui.ts"
   },
   "author": "Henrique Chamon",
   "license": "ISC",
