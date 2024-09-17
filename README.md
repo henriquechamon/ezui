@@ -1,6 +1,6 @@
 
 # ezui 🌀
-![Logo](https://cdn.discordapp.com/attachments/1217635173739397203/1257455888831217775/ez_ui.png?ex=6684788e&is=6683270e&hm=a553fc994f14632094a533d33ae5317b83a52b4a19a58095c7a869a4bd14a721&)
+![Logo](https://media.discordapp.net/attachments/1115642915327316102/1285404187127058494/ez_ui_1.png?ex=66ea256f&is=66e8d3ef&hm=d021accb19a6070fe5d3881305554fc0a75ba15c10213c46f458c86528422f76&=&format=webp&quality=lossless)
 
 ezui, is the new version of bolt-js, now wrote in TypeScript.
 
