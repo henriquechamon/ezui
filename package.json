@@ -3,6 +3,7 @@
   "version": "1.2.4",
   "description": "The old bolt js now is called ezui, an multiple HTML controller now with express",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "ezui": "npx ts-node-dev .ezui/ezui.ts"
   },
